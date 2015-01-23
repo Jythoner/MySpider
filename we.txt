@@ -1,0 +1,172 @@
+title :  django常用命令 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/09/30/2709145.html
+title :  Git 学习之 Git Basics - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/p/3433608.html
+title :   2012年10月1日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/01.html
+title :   2012年9月30日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/09/30.html
+title :  jinja 2 filter 使用 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/p/3284925.html
+title :  simple-todo: 一个简易的 todo 程序 - django版 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/06/2713415.html
+title :  haskell 常用 函数 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/p/3286666.html
+title :  django 简易博客开发 3 静态文件、from 应用与自定义 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/01/2709668.html
+title :  django 简易博客开发 4 comments库使用及ajax支持 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/03/2710803.html
+title :   2012年10月6日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/06.html
+title :   2012年10月3日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/03.html
+title :   2013年5月3日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/05/03.html
+title :   2012年10月7日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/07.html
+title :  sql to sqlalchemy 转换 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/05/03/3056095.html
+title :  django 简易博客开发 5 markdown支持、代码高亮、gravatar头像服务 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/10/07/2713703.html
+title :  wxpython 应用 使用 google gauth 认证 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/05/09/3068506.html
+title :  python字符编码 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/31/2617409.html
+title :   2012年7月31日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/31.html
+title :   2012年8月2日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/02.html
+title :  Python文件读写 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/02/2617440.html
+title :  python 学习---sys - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/05/2623675.html
+title :   2012年8月5日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/05.html
+title :  python 网络编程学习: 2 SOCKET - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/14/2637798.html
+title :   2012年8月19日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/19.html
+title :   2012年8月14日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/14.html
+title :  python 网络编程学习: 3 网络客户端编程之FTP - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/24/2653686.html
+title :   2012年8月24日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/24.html
+title :  python 网络编程学习: 1  初识 SOCKET - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/05/2623995.html
+title :  Python 代码性能优化技巧(转) - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/19/2605620.html
+title :  python 网络编程学习: 4 网络客户端编程之SMTP - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/25/2655793.html
+title :   2012年8月25日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/08/25.html
+title :  django 简易博客开发 1 安装、创建、配置、admin使用 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/09/29/2707976.html
+title :   2012年9月29日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/09/29.html
+title :  django 简易博客开发 2 模板和数据查询 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/09/30/2709143.html
+title :   2013年8月27日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/08/27.html
+title :   2013年5月9日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/05/09.html
+title :   2013年8月28日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/08/28.html
+title :   2013年11月20日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2013/11/20.html
+title :   2012年2月3日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/03.html
+title :  python 第一个代码 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2011/12/10/2283611.html
+title :   2011年12月10日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2011/12/10.html
+title :   2011年12月11日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2011/12/11.html
+title :  第一篇博客 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2011/12/10/2283482.html
+title :  博客园配置（Windows Live Writer 代码预览完美高亮） - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2011/12/11/2283689.html
+title :  假期实践系列 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/12/2320435.html
+title :  第一个javascript示例 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/12/2320919.html
+title :  aptana 3 配置 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/12/2320642.html
+title :   2012年1月12日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/12.html
+title :   2012年7月19日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/19.html
+title :  删除指定文件的python脚本 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/17/2324409.html
+title :   2012年7月27日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/27.html
+title :   2012年1月17日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/17.html
+title :  javascript 图像馆（javascript dom 例子） - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/22/2328738.html
+title :  python 数据类型 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/23/2364364.html
+title :  罗马数字表达方式 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/23/2364377.html
+title :  python 正则表达式 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/23/2365368.html
+title :   2012年2月23日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/23.html
+title :  python 生成器 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/24/2367183.html
+title :   2012年2月24日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/24.html
+title :  python 输入输出 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/27/2370259.html
+title :   2012年3月15日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/15.html
+title :   2012年2月27日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/27.html
+title :  django ImportError 解决方法 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/15/2398782.html
+title :  mac 安装 mysql-python 折腾记 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/25/2416868.html
+title :  Mac python 开发环境一些设置 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/25/2416992.html
+title :   2012年3月25日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/25.html
+title :  django 1.4新建apps - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/28/2422100.html
+title :  【python cookbook】 检查字符串中是否包含某自符集合中的字符 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/19/2600072.html
+title :   2012年3月28日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/03/28.html
+title :  【python cookbook】 将字符串逐字符或逐词反转 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/19/2600047.html
+title :  python 闭包 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/21/2602366.html
+title :  【python cookbook】简化字符串的translate 方法的使用 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/21/2602351.html
+title :   2012年7月21日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/21.html
+title :  【python cookbook】python过滤字符串中不属于指定集合的字符 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/21/2602625.html
+title :  【python cookbook】python检查一个字符串是文本还是二进制 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/22/2603426.html
+title :   2012年7月22日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/22.html
+title :  【python cookbook】python 控制大小写 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/22/2603434.html
+title :  【python cookbook】python访问子字符串 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/22/2603640.html
+title :  【python cookbook】改变多行文本字符串的缩进 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/23/2604512.html
+title :   2012年7月25日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/25.html
+title :  【python cookbook】 替换字符串中的子串 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/25/2608824.html
+title :   2012年7月23日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/23.html
+title :   2012年1月22日 随笔档案 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/22.html
+title :  网页中的一些常用快捷键 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/02/03/2337189.html
+title :  【python cookbook】替换字符串中的子串(使用Template) - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/07/27/2611464.html
+title :  python 删除空文件夹脚本 - cacique - 博客园
+url :  http://www.cnblogs.com/cacique/archive/2012/01/22/2328739.html
