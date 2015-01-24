@@ -4,7 +4,7 @@ from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 from scrapy.selector import Selector
 from MySpider.items import Website
 import sys
-sys.stdout = open('we.txt', 'w')   #将打印信息输出在相应的位置下
+sys.stdout = open('output.txt', 'w')   #将打印信息输出在相应的位置下
 
 
 class MySpider(CrawlSpider):
