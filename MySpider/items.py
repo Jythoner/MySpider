@@ -4,6 +4,6 @@ from scrapy.item import Item, Field
 
 class Website(Item):
 
-    headTitle = Field()
-    description = Field()
+    Title = Field()
+    Tag = Field()
     url = Field()

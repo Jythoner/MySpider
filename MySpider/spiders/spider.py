@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
-from scrapy.selector import Selector
+from scrapy.selector import Selector,HtmlXPathSelector
 from MySpider.items import Website
 import sys
 sys.stdout = open('output.txt', 'w')   #将打印信息输出在相应的位置下
@@ -10,26 +10,26 @@ sys.stdout = open('output.txt', 'w')   #将打印信息输出在相应的位置�
 class MySpider(CrawlSpider):
 
     name = "test"
-    allowed_domains = ["cnblogs.com"]
+    allowed_domains = ["the5fire.com"]
     start_urls = [
-        "http://www.cnblogs.com/cacique",
+        "http://www.the5fire.com/",
     ]
 
     rules = (
 
-        Rule(SgmlLinkExtractor(allow=('cacique/default\.html\?page=\d+', )), ),
-        Rule(SgmlLinkExtractor(allow=('cacique/p/', )), callback='parse_item'),
-        Rule(SgmlLinkExtractor(allow=('cacique/archive/', )), callback='parse_item'),
+        Rule(SgmlLinkExtractor(allow=('\?page=\d+', )),),
+        Rule(SgmlLinkExtractor(allow=('.*\.html', )), callback='parse_item'),
 
     )
 
     def parse_item(self, response):
         self.log("This is a page : %s " % response.url)
         sel = Selector(response)
-        items = []
+
         item = Website()
-        item['headTitle'] = sel.xpath('/html/head/title/text()').extract()[0].encode('utf-8')  #观察网页对应得html源码
+        item['Title'] = sel.xpath('//h2[@class="under_line"]/span/text()').extract()[0] #观察网页对应得html源码
         item['url'] = response.url
-        print 'title :  ' +  item['headTitle']
+        print 'title :  ' +  item['Title']
         print 'url :  ' + item['url']
-        items.append(item)
+
+        return item
